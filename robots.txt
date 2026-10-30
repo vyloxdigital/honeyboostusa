@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /images/README.txt
 
-Sitemap: https://honeyboosts.vercel.app/sitemap.xml
+Sitemap: https://honeyboostusa.vercel.app/sitemap.xml
