@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /images/README.txt
+
+Sitemap: https://honeyboosts.vercel.app/sitemap.xml
